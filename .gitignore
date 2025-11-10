@@ -1,2 +1,4 @@
 venv
-./stations_full.csv
+./Datasets/stations_full.csv
+
+./algo-check.ipynb
